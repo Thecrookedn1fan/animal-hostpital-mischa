@@ -115,7 +115,7 @@ with st.form("triage_form"):
         <div style="display:flex;align-items:center;gap:10px;margin-bottom:4px;">
             <span style="background:#3c426a;color:rgb(140, 133, 190);border-radius:8px;
                          padding:4px 10px;font-size:12px;font-weight:600;">1</span>
-            <span style="font-size:16px;font-weight:600;color:#105efa;">CODENO4</span>
+            <span style="font-size:16px;font-weight:600;color:#105efa;">What are your main symptons?</span>
             <span style="font-size:13px;color:#ccd4e4;font-style:italic;">select all that apply</span>
         </div>
     </div>
